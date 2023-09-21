@@ -422,5 +422,5 @@ const handleSubmit = ()=> {
 	 mail.value = ""
 	 body.value = ""
 
-	 alert("mensaje enviado.")
+	 alert("Message sent.")
 }
